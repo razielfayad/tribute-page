@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  background-color: #31363b;
+}
+
+.container {
+  background-color: #d5d6d7;
+  border-radius: 5px;
+}
+
+.autor {
+  color: #fff;
+  text-align: center;
+}
