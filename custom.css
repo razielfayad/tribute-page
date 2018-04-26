@@ -1,12 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 body {
   padding-top: 50px;
   padding-bottom: 10px;
   background-color: #31363b;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 .container {
   background-color: #d5d6d7;
   border-radius: 5px;
+}
+
+.box-center {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 5px;
 }
 
 .autor {
